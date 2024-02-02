@@ -2,6 +2,7 @@
 
 - Студент: [Анастасия Окладная](https://up.htmlacademy.ru/htmlcss/39/user/2490415).
 - Наставник: [Дина Шарипова](https://htmlacademy.ru/profile/id1418957).
+- Сайт: [Мой проект Седона](https://nastya-90.github.io/2490415-sedona-39/)
 
 ---
 
